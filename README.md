@@ -1,1 +1,1 @@
-<img src="https://github.com/bart-krakowski/bart-krakowski/cover.png" />
+<img src="https://github.com/bart-krakowski/bart-krakowski/blob/main/cover.png" />
