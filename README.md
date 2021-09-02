@@ -1,2 +1,1 @@
-![Github - cover](https://user-images.githubusercontent.com/48633090/131904639-83c5a3d3-53d6-46e5-927b-c0b962d8196a.png)
-
+![Github - cover](https://user-images.githubusercontent.com/48633090/131904934-a47603bd-3608-4db1-a708-81bde4c28089.png)
