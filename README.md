@@ -1,1 +1,1 @@
-![Github - cover](https://user-images.githubusercontent.com/48633090/148269669-c99fde54-0715-42e4-a320-b0d1d53088ad.png)
+<img width="1500" alt="Github - cover" src="https://user-images.githubusercontent.com/48633090/148270472-a3a6e321-d223-4c13-b793-8a2474b71238.png">
