@@ -1,1 +1,3 @@
-<img src="https://cover-seven.vercel.app/api/cover?id=15388890">
+<a href="https://stackoverflow.com/users/15388890/bart-krakowski">
+  <img src="https://cover-seven.vercel.app/api/cover?id=15388890">
+</a>
